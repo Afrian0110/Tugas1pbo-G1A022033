@@ -1,8 +1,8 @@
 # Tugas1pbo-G1A022033
 # Rafi Afrian 
 # G1A022033
-1. buatlah perbedaan functional programming dan object oriented programming dalam bahasa pemrograman pyhon, serta berikan contoh masing-masing code nya
-jawaban :
+# 1. buatlah perbedaan functional programming dan object oriented programming dalam bahasa pemrograman pyhon, serta berikan contoh masing-masing code nya
+
 # Functional Programming(FP)
 adalah paradigma pemrograman – gaya membangun struktur dan elemen pada program komputer – yang menyuguhkan komputasi sebagai evaluasi fungsi matematika dan menghindari perubahan-keadaan dan data yang bisa berubah.
 pemograman function:
@@ -18,8 +18,8 @@ pemograman berorientasi objek:
 > bersifat reusable dapat digunakan kembali, sehingga dapat menghemat tempat penyimpanannya.
 > sangat bagus jika menggunakannya dalam masalah besar, karena dalam OOP dapat memisahkan kode - kodenya dalam class yang fungsinya berbeda - beda.
 
-2. berikan apa saja contoh pengimplementasian dari oop
-jawaban :
+# 2. berikan apa saja contoh pengimplementasian dari oop
+
 # contoh pengimplementasian dari oop
 - Pembuatan kelas dan objek: Dalam OOP, kita bisa membuat kelas sebagai blueprint atau cetak biru untuk objek. Kemudian, dari kelas tersebut, kita bisa membuat objek yang merupakan instansi dari kelas tersebut. Misalnya, jika kita membuat kelas Mobil, maka kita bisa membuat beberapa objek seperti mobil sedan, mobil pick-up, mobil sport, dan lain sebagainya.
 - Encapsulation: OOP memungkinkan kita untuk menyembunyikan detail implementasi dari luar kelas atau objek dengan cara mengenkapsulasi data dan metode ke dalam kelas. Hal ini membuat kode menjadi lebih aman dan memudahkan perawatan atau perbaikan jika terjadi masalah. Contoh pengimplementasian encapsulation adalah dengan menggunakan akses modifier seperti private, protected, atau public.
